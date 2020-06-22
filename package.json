@@ -19,7 +19,7 @@
     "enzyme-to-json": "^3.3.5"
   },
   "main": "index.js",
-  "author": "",
+  "author": "VitTheDev",
   "license": "ISC",
   "description": ""
 }
