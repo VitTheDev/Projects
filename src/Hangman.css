@@ -1,5 +1,7 @@
 .Hangman {
-  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: black;
   text-align: center;
   zoom: 1.3;
